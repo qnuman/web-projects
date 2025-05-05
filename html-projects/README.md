@@ -4,8 +4,7 @@ This repository contains my personal CV built as a single-page website using sem
 
 ## 🔗 Live Site
  project URL:
- [https://roadmap.sh/projects/single-page-cv](https://qnuman.github.io/single-page-cv/)
-
+ [https://roadmap.sh/projects/single-page-cv](https://raw.githubusercontent.com/qnuman/web-projects/refs/heads/main/html-projects/index.html)
 ## 📝 Project Description
 
 - A single-page CV website
