@@ -5,5 +5,5 @@ This repository contains various web development projects. Below are the links t
 ## Live Site Links
 
 ## HTML Projects:
-- [Portfolio]([https://your-portfolio-live-link.com](https://qnuman.github.io/web-projects/html-project/portfolio/index.html))
-- [Single Page CV]([https://your-cv-live-link.com](https://qnuman.github.io/web-projects/html-project/portfolio/index.html))
+- [Portfolio](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
+- [Single Page CV](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
