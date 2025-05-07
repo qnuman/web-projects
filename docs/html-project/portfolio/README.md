@@ -3,7 +3,9 @@
 Welcome to my **portfolio**! This project showcases my journey as a developer through a simple **HTML-based website**. The primary focus of this portfolio is to present my work, skills, and professional background using semantic HTML structure, setting the foundation for future styling and enhancements.
 
 ## View the Portfolio
-[]https://qnuman.github.io/web-projects/html-project/portfolio/index.html
+Project URL:
+[https://roadmap.sh/projects/single-page-cv](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
+
 ## Project Overview
 
 The portfolio website is divided into multiple pages, each serving a unique purpose:
@@ -39,21 +41,6 @@ The portfolio website is divided into multiple pages, each serving a unique purp
 - **Languages**: HTML (this project does not use CSS or JavaScript at this stage)
 - **Semantic Tags**: `<header>`, `<footer>`, `<nav>`, `<section>`, `<article>`, etc., to ensure meaningful content structure.
 - **SEO**: Basic SEO meta tags to improve search engine visibility.
-
-## Contact Information
-
-I would love to connect! Feel free to reach out via the following channels:
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-
-
-
-You can explore the complete portfolio website through the following pages:
-- [Homepage](index.html)
-- [Projects](projects/index.html)
-- [Articles](articles/index.html)
-- [Contact](contact/index.html)
 
 ## Conclusion
 
