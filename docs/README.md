@@ -6,4 +6,4 @@ This repository contains various web development projects. Below are the links t
 
 ## HTML Projects:
 - [Portfolio](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
-- [Single Page CV](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
+- [Single Page CV](https://qnuman.github.io/web-projects/html-project/single-page-html-cv/index.html)
