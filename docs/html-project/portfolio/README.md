@@ -4,7 +4,7 @@ Welcome to my **portfolio**! This project showcases my journey as a developer th
 
 ## View the Portfolio
 Project URL:
-[https://roadmap.sh/projects/single-page-cv](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
+[https://roadmap.sh/projects/basic-html-website](https://qnuman.github.io/web-projects/html-project/portfolio/index.html)
 
 ## Project Overview
 
